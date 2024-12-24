@@ -1,5 +1,5 @@
 /* Calculation of simple interest */
-/* Author: gekay Date: 24/12/2024 */
+/* Author: Azlan19 Date: 24/12/2024 */
 # include <stdio.h>
 int main()
 {
