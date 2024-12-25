@@ -9,7 +9,7 @@ int main()
 {
      float bp, da, hra, grpay;
      printf("\nEnter Ramesh's Basic Salary: ");
-     scanf("%f",&bp);
+     scanf("%f",&bp); /*Don't forget the & symbol when asking for an input to address the value*/
 
      da = 0.4 * bp;
      hra = 0.2 * bp;
@@ -21,5 +21,3 @@ int main()
      printf("Ramesh's Gross Pay:%f\n", grpay);
      return 0;
 }
-
-/*Don't forget the & symbol when asking for an input to address the value*/
