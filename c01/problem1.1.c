@@ -21,3 +21,5 @@ int main()
      printf("Ramesh's Gross Pay:%f\n", grpay);
      return 0;
 }
+
+/*Don't forget the & symbol when asking for an input to address the value*/
