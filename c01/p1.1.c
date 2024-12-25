@@ -19,5 +19,6 @@ int main()
      printf("Dearness Allowance:%f\n", da);
      printf("House Rent Allowance:%f\n", hra);
      printf("Ramesh's Gross Pay:%f\n", grpay);
+     
      return 0;
 }
