@@ -1,0 +1,32 @@
+[C] State whether the following statements are True or False:
+
+(a) ; is a valid statement.                                           [False]                          
+(b) Ifs can be nested.                                                [True]
+(c) If there are multiple statements in if or else blocks,
+    they should be enclosed within a pair of {}.                      [True]
+(d) If can occur within an if block but not in the else block.        [False]
+(e) By default there is only one statement in if blcok and only
+    one in the else block.                                            [False]
+(f) Nothing happens on execution of a null statement.                 [True]
+
+
+[D] Match the following pairs:
+
+(a) Multiples statements         -->    {}
+(b) else block                   -->    if-else
+(c) ;                            -->    Null statement
+(d) < > <= >= == !=              -->    Relational operators
+(e) ==                           -->    Comparison operator
+(f) + - * / %                    -->    Arithmetic operators
+(g) =                            -->    Assignment operator
+(h) Default control instruction  -->    Sequence
+(i) Decision control instruction -->    Optional
+
+
+[E] Which of the following are valid ifs?
+
+(a) if(-25)    -->  Valid
+(b) if(3.14)   -->  Valid
+(c) if(a)      -->  Valid
+(d) if(a + b)  -->  Valid
+(e) if(a >= b) -->  Valid
