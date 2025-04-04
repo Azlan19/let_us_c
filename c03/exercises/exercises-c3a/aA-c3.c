@@ -9,7 +9,7 @@ int main() {
           b = 300;
      c = 200;
 
-     printf("%d %d", b, c);
+     printf("%d %d\n", b, c);
 
      return 0;
 }
